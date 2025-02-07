@@ -30,6 +30,6 @@ Install the required libraries using pip:
 pip install pygame opencv-python mediapipe
 ```
 ### Gameplay Demo
-![Gameplay Demo](assets/1.png)
+![Gameplay Demo](assests/1.png)
 
 
